@@ -114,7 +114,7 @@ pnpm build --dev
 
 2. **Decode Base64 Content**
     - Select the Base64 encoded text in any Discord message.
-    - Right-click and choose "Decode Base64" from the context menu.
+    - Press on the Decode Button from the Chat Buttons.
     - A modal will appear displaying the decoded content.
 
 ## Contributing
